@@ -1,6 +1,4 @@
 # carrinhoWeb
-
-# Lógica de programação
 Lógica de programação com linguagem JAVA
 
 ![imagem logo aprendizado de lógica de progração](https://github.com/LeeoLima/carrinhoWeb/blob/master/java.jpg)
