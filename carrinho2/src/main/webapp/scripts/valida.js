@@ -1,6 +1,6 @@
 /**
  * validacao de campos obrigatorios
- *@author Ricardo Rossoni
+ *@author Leonardo Lima
  */
 
 function validar() {
